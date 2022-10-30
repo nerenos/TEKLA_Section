@@ -1,0 +1,13 @@
+D:\Projet_C\Tekla\Tekla_Section\Tekla_Section\bin\Debug\Tekla_Section.exe.config
+D:\Projet_C\Tekla\Tekla_Section\Tekla_Section\bin\Debug\Tekla_Section.exe
+D:\Projet_C\Tekla\Tekla_Section\Tekla_Section\bin\Debug\Tekla_Section.pdb
+D:\Projet_C\Tekla\Tekla_Section\Tekla_Section\bin\Release\Tekla_Section.exe.config
+D:\Projet_C\Tekla\Tekla_Section\Tekla_Section\bin\Release\Tekla_Section.exe
+D:\Projet_C\Tekla\Tekla_Section\Tekla_Section\bin\Release\Tekla_Section.pdb
+D:\Projet_C\Tekla\Tekla_Section\ObjDir\2019\Tekla_Section\Tekla_Section.Profileur.resources
+D:\Projet_C\Tekla\Tekla_Section\ObjDir\2019\Tekla_Section\Tekla_Section.Properties.Resources.resources
+D:\Projet_C\Tekla\Tekla_Section\ObjDir\2019\Tekla_Section\Tekla_Section.csproj.GenerateResource.cache
+D:\Projet_C\Tekla\Tekla_Section\ObjDir\2019\Tekla_Section\Tekla_Section.csproj.CoreCompileInputs.cache
+D:\Projet_C\Tekla\Tekla_Section\ObjDir\2019\Tekla_Section\Tekla_Section.exe
+D:\Projet_C\Tekla\Tekla_Section\ObjDir\2019\Tekla_Section\Tekla_Section.pdb
+D:\Projet_C\Tekla\Tekla_Section\ObjDir\2019\Tekla_Section\Tekla_Section.csprojAssemblyReference.cache
